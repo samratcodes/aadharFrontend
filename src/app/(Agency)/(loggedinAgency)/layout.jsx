@@ -1,4 +1,4 @@
-import Sidebar from '@/app/components/agencyComponents/Sidebar'
+import Sidebar from '../../components/AgencyComponents/Sidebar'
 
 const layout = ({ children }) => {
   return (
